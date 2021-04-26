@@ -1,4 +1,5 @@
 # Joseph W Maurer
+#### jmaurer1994@gmail.com
 
 ## Education
 
@@ -18,3 +19,9 @@
   #### IT Summer Help | January 2014 - August 2014
   Duties included imaging new computers, diagnosing common hardware and software issues, and reconfiguring the hardware of existing computers.
 
+## Skills
+* Microsoft Office and Google Workplace
+* Active Directory and SCCM
+* VMware ESXi and Proxmox virtualization environments
+* Linux server hosting (mainly CentOS)
+* Basic understanding of network topology, TCP/IP protocol, routing, etc
