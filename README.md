@@ -2,13 +2,13 @@
 
 ## Education
 
-* ### Oregon State University - 2021 - Present
+* ### Oregon State University | 2021 - Present
   in progress: Bachlors of Science in Computer Science
   
-* ### Bucks County Community College - 2019 - 2020
+* ### Bucks County Community College | 2019 - 2020
   Associate of Science in Computer Science
   
-* ### William Tennent High SChool - 2009-2013
+* ### William Tennent High SChool | 2009-2013
   High School Diploma
 
 ## Work Experience
