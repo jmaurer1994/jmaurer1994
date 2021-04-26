@@ -1,6 +1,4 @@
 # Joseph W Maurer
-jmaurer1994@gmail.com
-
 ## Education
 
 * ### North Penn School District
