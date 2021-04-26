@@ -1,5 +1,5 @@
 # Joseph W Maurer
-#### jmaurer1994@gmail.com
+jmaurer1994@gmail.com
 
 ## Education
 
