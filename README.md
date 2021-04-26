@@ -1,6 +1,7 @@
-#Joseph W Maurer
+# Joseph W Maurer
 
-##Education
+## Education
 
-###North Penn School District
-###Technology Assistant
+### North Penn School District
+
+### Technology Assistant
