@@ -4,6 +4,7 @@
 
 * ### Oregon State University
   2021 - Present
+  
   in progress: Bachlors of Science in Computer Science
   
 * ### Bucks County Community College
