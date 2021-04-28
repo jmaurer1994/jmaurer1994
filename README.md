@@ -19,7 +19,7 @@
   
 * ### Building Inspectors & Contractors
   #### Administrative | January 2016 - August 2018
-  Building level technician that supports users with software and hardware issues, escalating as needed. Responsible for maintaining the building inventory, providing user support, troubleshooting and logging issues, and hardware repair.
+  Responsible for filling in where needed, either in the field or office. Maintained parts inventory and handled purchasing. Processed home insurance claims and requests. Maintained office network and computers. 
   
 * ### S. Walter Packaging
   #### IT Support Contractor | May 2015 - November 2015
