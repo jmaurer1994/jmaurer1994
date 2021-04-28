@@ -8,7 +8,7 @@
 * ### Bucks County Community College | 2019 - 2020
   Associate of Science in Computer Science
   
-* ### William Tennent High SChool | 2009-2013
+* ### William Tennent High School | 2009-2013
   High School Diploma
 
 ## Work Experience
