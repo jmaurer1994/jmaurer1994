@@ -1,4 +1,4 @@
-# Joseph W Maurer
+# Joe Maurer
 
 ## Education
 
