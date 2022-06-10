@@ -28,16 +28,7 @@
     * Proxmox Virtual Environment platform
     * Linux (command line, multiple distributions)
 
-## Education
-
-* ### 2021 - Present | Oregon State University
-  in progress: Bachlors of Science in Computer Science
-  
-* ### 2019 - 2020 | Bucks County Community College 
-  Associate of Science in Computer Science
-
 ## Work Experience
-
 * ### North Penn School District
   * #### June 2022 - Present | Administrative Technology Specialist
     * Administer system user accounts and privileges
@@ -52,3 +43,16 @@
     * Identify, diagnose, and resolve hardware, software, and operating system problems and questions that occur during daily use
     * Log and follow up on all open or pending service requests for the building to ensure resolution and escalate issues requiring further intervention through proper channels
     * Plan for building technology supply needs, order, and distribute the supplies as designated by supervisor
+    * ##### Accomplishments:
+      * Developed Google Docs add-on to automatically convert "Smart Quotes" back into normal ones. Smart Quotes were causing another application to break when exporting data from Google Docs, and Tech staff had been correcting the bad characters by hand for end users.
+      * Developed frontend app for the SnipeIt inventory system. It uses the API to allow tech staff to more efficiently process equipment by allowing for bulk updating of device status.
+
+## Education
+* ### 2021 - Present | Oregon State University
+  in progress: Bachelors of Science in Computer Science (Cybersecurity focus)
+  estimated completion: December 2023
+  Current GPA: 3.9
+  
+* ### 2019 - 2020 | Bucks County Community College 
+  Associate of Science in Computer Science
+  GPA: 4.0
