@@ -50,9 +50,13 @@
 ## Education
 * ### 2021 - Present | Oregon State University
   in progress: Bachelors of Science in Computer Science (Cybersecurity focus)
+  
   estimated completion: December 2023
+  
   Current GPA: 3.9
+  
   
 * ### 2019 - 2020 | Bucks County Community College 
   Associate of Science in Computer Science
+  
   GPA: 4.0
