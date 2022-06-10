@@ -12,7 +12,7 @@
     * Python
     * C
     * SQL
-    * HTMl / CSS
+    * HTML / CSS
     * Java
     * PHP
   * Concepts
